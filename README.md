@@ -1,7 +1,7 @@
 # Simplu
 Simplu: A comprehsive dataset summarization tool
 
-Simplu (Romanian for "simple") is intended to be a single function that can conduct all of the basic data summarization any analyst or data scientist may need when preparing for a larger analysis. Due to the coarse nature of the output from this function, it is not intended to be a replacement for summary tables and graphics. Rather, it is intended to supply important information regarding a dataset and variables to an analyst as succinctly as possible to facilitate their ultimate goal of a complete analysis. 
+Simplu (Romanian for "simple") is intended to be a single function that can conduct all of the basic data summarization any analyst or data scientist may need when preparing for a larger analysis. Due to the coarse nature of the output from this function, it is not intended to be a replacement for presentation-level summary tables and graphics. Rather, it is intended to supply important information regarding a dataset and variables to an analyst as succinctly as possible to facilitate their ultimate goal of a complete analysis. 
 
 **Current release**  
 Simplu is still in the alpha stages of development. Currently, user modification is required for functionality (just complete the overall loop and include the *function* statement), however the following results are currently output:
